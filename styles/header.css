@@ -160,6 +160,10 @@
         color: var(--preto);
     }
 
+    .container{
+        display: block;
+    }
+    
     .container__texto {
         display: block;
     }
